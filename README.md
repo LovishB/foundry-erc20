@@ -11,7 +11,7 @@ A basic implementation of the ERC20 token standard with core functionality and c
 - Events for transfers and approvals
 
 ## Architecture Overview
-![Bagel Token & Merkle Airdrop Architecture](./diagram.svg)
+![Architecture](./diagram.svg)
 
 ## Contract Functions
 
